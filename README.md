@@ -1,6 +1,6 @@
 # Ex.No: 10 Learning – Use Supervised Learning  
 ### DATE: 11-11-2024                                                                         
-### REGISTER NUMBER : 212222040152
+### REGISTER NUMBER : 212222040006
 ### AIM: 
 To write a program to train the classifier for Medicine Recommendation System.
 ###  Algorithm:
